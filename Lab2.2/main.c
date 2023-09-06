@@ -29,7 +29,7 @@ int main(int argc, const char * argv[]) {
 */
 
 //№3
-
+/*
 int main(int argc, const char * argv[]) {
     short e=3;
     float n=3;

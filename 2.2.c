@@ -32,7 +32,7 @@ int main(int argc, const char * argv[]) {
 /*
 int main(int argc, const char * argv[]) {
     float n=3;
-    printf("       %.0f\n     %d\n ---------\n  %0+8.3f\n ",n,333, n/333);
+    printf("       %.0f\n     %d\n ---------\n  %0+10.5f\n ",n,333, n/333);
     
 }
 */

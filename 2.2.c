@@ -31,10 +31,8 @@ int main(int argc, const char * argv[]) {
 //№3
 /*
 int main(int argc, const char * argv[]) {
-    short e=3;
     float n=3;
-
-    printf("       %d\n     %d\n ---------\n  %0+8.3f\n ",e,333, n/333);
+    printf("       %.0f\n     %d\n ---------\n  %0+8.3f\n ",n,333, n/333);
     
 }
 */
